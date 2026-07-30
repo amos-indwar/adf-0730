@@ -1,0 +1,15 @@
+{
+	"name": "adfstudio0729",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7040cfd2-ff40-47ff-a4e8-c8914872181b",
+		"tenantId": "5a438c1d-af00-4876-8d64-b67a5f7a46b9"
+	}
+}
